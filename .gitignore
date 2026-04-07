@@ -1,9 +1,6 @@
 # data
 data/raw/
 
-# outputs
-outputs/
-
 # python
 __pycache__/
 *.pyc
