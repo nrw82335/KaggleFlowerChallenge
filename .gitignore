@@ -1,0 +1,22 @@
+# data
+data/raw/
+
+# outputs
+outputs/
+
+# python
+__pycache__/
+*.pyc
+
+# environments
+.venv/
+env/
+
+# notebooks
+.ipynb_checkpoints/
+
+# model files
+*.h5
+*.pt
+*.pth
+*.ckpt
